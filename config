@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaask2krcjqrrc6kiw4fuymsaocvmc2utvnnfhcupdyks5qb7bnrtsq
+fingerprint=33:b7:02:5f:eb:06:eb:3d:e0:c1:e2:2b:f7:70:b7:59
+tenancy=ocid1.tenancy.oc1..aaaaaaaaxtksrop6b2w5gnsndcgophfnt6zqew5v62op3erk5fyx3e2us2ka
+region=ap-singapore-1
+key_file=tmixbeats@gmail.com_2023-10-23T23_35_11.714Z.pem

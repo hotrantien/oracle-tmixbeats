@@ -1,0 +1,22 @@
+[INFO] 2023-10-24 06:56:57,855 - #####################################################
+[INFO] 2023-10-24 06:56:57,855 - Script to spawn VM.Standard.A1.Flex instance
+[INFO] 2023-10-24 06:56:57,855 - Start spawning instance VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-10-24 06:56:57,855 - Loading OCI config
+[INFO] 2023-10-24 06:56:57,856 - Initialize service client with default config file
+[INFO] 2023-10-24 06:56:58,071 - Instance to create: VM.Standard.A1.Flex - 4 ocpus - 24 GB
+[INFO] 2023-10-24 06:56:58,098 - Check available storage in account
+[INFO] 2023-10-24 06:56:58,931 - Check current instances in account
+[INFO] 2023-10-24 06:57:00,347 - No instance(s) found!
+[INFO] 2023-10-24 06:57:00,347 - Total ocpus: 0 - Total memory: 0 (GB) || Free 4 ocpus - Free memory: 24 (GB)
+[INFO] 2023-10-24 06:57:00,357 - Precheck pass! Create new instance VM.Standard.A1.Flex: 4 opus - 24 GB
+[INFO] 2023-10-24 06:57:01,404 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:57:12,761 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:57:24,119 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:57:35,410 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:57:46,369 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:58:08,149 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:58:19,007 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:58:40,844 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:58:51,652 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:59:03,190 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
+[INFO] 2023-10-24 06:59:13,969 - 500 - InternalError - Out of host capacity.. Retrying after 10 seconds
